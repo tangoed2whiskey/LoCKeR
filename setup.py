@@ -22,9 +22,7 @@ kwargs = {
         "Programming Language :: Python :: 3",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
-    "install_requires": [
-        "scikit-learn",
-    ],
+    "install_requires": ["scikit-learn", "numpy", "scipy"],
     "license": "GPL 3",
     "long_description": long_description,
     "long_description_content_type": "text/markdown",
